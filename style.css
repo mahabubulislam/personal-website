@@ -61,4 +61,11 @@ h1{
 .services-img{
     width: 50%;
 }
-    
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+
+    }
