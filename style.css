@@ -4,7 +4,7 @@ body{
     
     
 }
-#mission-2020{
+#top-heading{
     border-left: 5px solid orangered;
     padding-left: 20px;
 }
@@ -17,6 +17,7 @@ h1{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 100px  ;
 }
 .half-width{
     width: 50%;
@@ -35,3 +36,32 @@ h1{
     border-radius: 5px;
     font-family: 'Roboto Mono', monospace;
 }
+.section-heading{
+    text-align: center;
+}
+#web-design{
+    background-color: pink;
+    margin-right: 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+    
+}
+#web-dev{
+    background-color: aquamarine;
+    margin-right: 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+#wordpress{
+    background-color: papayawhip;
+    margin-right: 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+.services-img{
+    width: 50%;
+    
+   
+    
+}
+    
