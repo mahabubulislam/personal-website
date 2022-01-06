@@ -65,11 +65,11 @@ h1{
     padding-right: 20px;
     text-align: justify;
 }
-.services{
+#services{
     display: flex;
     margin-bottom: 100px;
 }
-.services img{
+#services img{
     width: 50%;
 }
 .projects{
